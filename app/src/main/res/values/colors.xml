@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#303F9F</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="thingsToPack">#CA4242</color>
+    <color name="housing">#F7B009</color>
+    <color name="documents">#27893E</color>
+</resources>
